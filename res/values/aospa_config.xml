@@ -4,4 +4,7 @@
     <!-- Whether device supports increased touch sensitvity -->
     <bool name="config_supportTouchPollingMode">false</bool>
 
+    <!-- SecurityHub -->
+    <string name="config_alternative_advanced_security_category_key"></string>
+
 </resources>
